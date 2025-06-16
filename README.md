@@ -37,7 +37,6 @@ This report showcases validation results comparing the base LLaVA model against 
 
 ### 📷 Image
 ![Sample 1 Image](report_images/sample_1_image.png)
-*Image file: `report_images/sample_1_image.png`*
 
 
 ### 📝 Question
@@ -109,7 +108,6 @@ The overall image seems to be a still life with a focus on the mug and its text.
 
 ### 📷 Image
 ![Sample 2 Image](report_images/sample_2_image.png)
-*Image file: `report_images/sample_2_image.png`*
 
 
 ### 📝 Question
@@ -171,7 +169,6 @@ The person walking in the yellow jacket is wearing a flat cap, also known as a b
 
 ### 📷 Image
 ![Sample 3 Image](report_images/sample_3_image.png)
-*Image file: `report_images/sample_3_image.png`*
 
 
 ### 📝 Question
@@ -237,7 +234,6 @@ In this image, we see the actor Viggo Mortensen from the movie "Hidalgo". He is 
 
 ### 📷 Image
 ![Sample 4 Image](report_images/sample_4_image.png)
-*Image file: `report_images/sample_4_image.png`*
 
 
 ### 📝 Question
@@ -299,7 +295,6 @@ In the background, there are two cabinets visible.
 
 ### 📷 Image
 ![Sample 5 Image](report_images/sample_5_image.png)
-*Image file: `report_images/sample_5_image.png`*
 
 
 ### 📝 Question
@@ -385,7 +380,6 @@ Each component is typically used for patient monitoring, treatment, or care in a
 
 ### 📷 Image
 ![Sample 6 Image](report_images/sample_6_image.png)
-*Image file: `report_images/sample_6_image.png`*
 
 
 ### 📝 Question
@@ -447,7 +441,6 @@ The image shows a laptop with a webpage open on its screen. However, due to the 
 
 ### 📷 Image
 ![Sample 7 Image](report_images/sample_7_image.png)
-*Image file: `report_images/sample_7_image.png`*
 
 
 ### 📝 Question
@@ -509,7 +502,6 @@ Yes, this book is related to Literature & Fiction. The title "Finding Freedom: W
 
 ### 📷 Image
 ![Sample 8 Image](report_images/sample_8_image.png)
-*Image file: `report_images/sample_8_image.png`*
 
 
 ### 📝 Question
@@ -571,7 +563,6 @@ The utensil on the right in the image appears to have a black napkin wrapped aro
 
 ### 📷 Image
 ![Sample 9 Image](report_images/sample_9_image.png)
-*Image file: `report_images/sample_9_image.png`*
 
 
 ### 📝 Question
@@ -633,7 +624,6 @@ The style of rug in the image appears to be a Persian rug with a floral or paisl
 
 ### 📷 Image
 ![Sample 10 Image](report_images/sample_10_image.png)
-*Image file: `report_images/sample_10_image.png`*
 
 
 ### 📝 Question
