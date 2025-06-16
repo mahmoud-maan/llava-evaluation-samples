@@ -689,15 +689,3 @@ The man in the image is wearing a formal, button-up shirt. It appears to be a st
 
 **Fine-tuned Model Assessment:** Model B delivers a strong, clear, and relevant response that closely aligns with the preferred response, making it a high-quality answer.
 
----
-
-## 📄 Report Generation Details
-
-- **Script:** `generate_report.py`
-- **Generated on:** 2025-06-16 15:38:02
-- **Purpose:** Documentation and analysis of model fine-tuning results
-- **Methodology:** Blind evaluation using LLM judge to ensure unbiased assessment
-
----
-
-*This report was automatically generated from validation and evaluation data.*
